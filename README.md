@@ -10,7 +10,7 @@ These links below for you to look at these experiment and please give me a feedb
 
 [ToDo list](https://mohamedyousef44.github.io/jQuery-Projects/todo-list/index.html).
 
-[Black Hole Simulator](https://mohamedyousef44.github.io/jQuery-Projects/simple%20slider/index.html).
+[Simple Slider](https://mohamedyousef44.github.io/jQuery-Projects/simple%20slider/index.html).
 
-[Black Hole Simulator](https://mohamedyousef44.github.io/jQuery-Projects/simple%20task/index.html).
+[Simple Task](https://mohamedyousef44.github.io/jQuery-Projects/simple%20task/index.html).
 
